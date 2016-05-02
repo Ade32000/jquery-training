@@ -1,6 +1,6 @@
 # jQuery
 
-* https://github.com/simplonco/jquery-pomodoro
-* https://github.com/simplonco/jquery-slider
-* https://github.com/simplonco/jquery-form
-* https://github.com/simplonco/jquery-paint
+* [Pomodoro](https://github.com/simplonco/jquery-pomodoro)
+* [Slider](https://github.com/simplonco/jquery-slider)
+* [Form](https://github.com/simplonco/jquery-form)
+* [Paint](https://github.com/simplonco/jquery-paint)
