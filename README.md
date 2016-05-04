@@ -12,8 +12,10 @@
 
 ## Resources
 
-* https://openclassrooms.com/courses/introduction-a-jquery-4
-* https://openclassrooms.com/courses/intro-to-jquery
+* [OpenClassrooms](https://openclassrooms.com/courses/introduction-a-jquery-4) :fr:
+* [OpenClassrooms](https://openclassrooms.com/courses/intro-to-jquery) :uk:
+
+### Other game tutorials _(to go further)_
 
 * http://www.w3schools.com/games/game_movement.asp
 * http://thingsilearned.com/2009/06/02/tictactoe-in-jquery/
