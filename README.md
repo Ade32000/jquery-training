@@ -14,8 +14,9 @@
 
 ## Resources
 
-* [OpenClassrooms](https://openclassrooms.com/courses/introduction-a-jquery-4) :fr:
-* [OpenClassrooms](https://openclassrooms.com/courses/intro-to-jquery) :uk:
+* [OpenClassrooms - Introduction to jQuery](https://openclassrooms.com/courses/intro-to-jquery) :uk:
+* [OpenClassrooms - Introduction à jQuery](https://openclassrooms.com/courses/introduction-a-jquery-4) :fr:
+* [OpenClassrooms - Simplifiez vos développements JavaScript avec jQuery](https://openclassrooms.com/courses/simplifiez-vos-developpements-javascript-avec-jquery) :fr:
 * [Codecademy](https://www.codecademy.com/learn/jquery) :fr:
 * [Codecademy](https://www.codecademy.com/fr/learn/jquery/) :uk:
 
