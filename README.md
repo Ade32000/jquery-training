@@ -6,11 +6,11 @@
 * [Pomodoro](https://github.com/simplonco/jquery-pomodoro)
   _Create an app to manage Pomodoro sessions. :tomato:_
 * [Paint](https://github.com/simplonco/jquery-paint)
-  _Rework pixel-Art :pencil2: (TODO)_
+  _Rework pixel-Art :pencil2: (Experimental)_
 * [Slider](https://github.com/simplonco/jquery-slider)
-  _(TODO)_
+  _(Experimental)_
 * [Form](https://github.com/simplonco/jquery-form)
-  _(TODO)_
+  _(Experimental)_
 
 ## Resources
 
@@ -25,3 +25,5 @@
 * http://www.w3schools.com/games/game_movement.asp
 * http://thingsilearned.com/2009/06/02/tictactoe-in-jquery/
 * http://fmarcia.info/jquery/tetris/tetris.html
+
+To be continued..
