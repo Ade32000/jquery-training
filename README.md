@@ -14,6 +14,8 @@
 
 * [OpenClassrooms](https://openclassrooms.com/courses/introduction-a-jquery-4) :fr:
 * [OpenClassrooms](https://openclassrooms.com/courses/intro-to-jquery) :uk:
+* [Codecademy](https://www.codecademy.com/learn/jquery) :fr:
+* [Codecademy](https://www.codecademy.com/fr/learn/jquery/) :uk:
 
 ### Other game tutorials _(to go further)_
 
