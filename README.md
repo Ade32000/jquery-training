@@ -9,8 +9,7 @@
   _Rework pixel-Art :pencil2: (Experimental)_
 * [Slider](https://github.com/simplonco/jquery-slider)
   _(Experimental)_
-* [Form](https://github.com/simplonco/jquery-form)
-  _(Experimental)_
+* [Interactive Form](https://github.com/simplonco/jquery-form)
 
 ## Resources
 
