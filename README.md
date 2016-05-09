@@ -5,10 +5,10 @@
 
 * [Pomodoro](https://github.com/simplonco/jquery-pomodoro)
   _Create an app to manage Pomodoro sessions. :tomato:_
+* [Slider](https://github.com/simplonco/jquery-slider) _Simple jQuery picture carousel. :crystal_ball:_
+* [Interactive Form](https://github.com/simplonco/jquery-form) _Simple jQuery interactive form. :postbox:_
 * ~~[Paint](https://github.com/simplonco/jquery-paint)
-  _Rework pixel-Art :pencil2:_~~
-* [Slider](https://github.com/simplonco/jquery-slider) _Simple jQuery picture carousel._
-* [Interactive Form](https://github.com/simplonco/jquery-form) _Simple jQuery interactive form._
+  _Rework pixel-Art :art:_~~
 
 ## Resources
 
