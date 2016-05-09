@@ -7,8 +7,8 @@
   _Create an app to manage Pomodoro sessions. :tomato:_
 * ~~[Paint](https://github.com/simplonco/jquery-paint)
   _Rework pixel-Art :pencil2:_~~
-* [Slider](https://github.com/simplonco/jquery-slider)
-* [Interactive Form](https://github.com/simplonco/jquery-form)
+* [Slider](https://github.com/simplonco/jquery-slider) _Simple jQuery picture carousel._
+* [Interactive Form](https://github.com/simplonco/jquery-form) _Simple jQuery interactive form._
 
 ## Resources
 
