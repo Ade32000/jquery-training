@@ -5,8 +5,8 @@
 
 * [Pomodoro](https://github.com/simplonco/jquery-pomodoro)
   _Create an app to manage Pomodoro sessions. :tomato:_
-* [Paint](https://github.com/simplonco/jquery-paint)
-  _Rework pixel-Art :pencil2: (Experimental)_
+* ~~[Paint](https://github.com/simplonco/jquery-paint)
+  _Rework pixel-Art :pencil2:_~~
 * [Slider](https://github.com/simplonco/jquery-slider)
 * [Interactive Form](https://github.com/simplonco/jquery-form)
 
