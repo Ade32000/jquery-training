@@ -1,6 +1,8 @@
 # jQuery
 >_[Training](https://github.com/simplonco/training) / jQuery_
 
+![jQuery](https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/JQuery_logo.svg/1280px-JQuery_logo.svg.png)
+
 ## Exercises
 
 * [Pomodoro](https://github.com/simplonco/jquery-pomodoro)
