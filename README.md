@@ -12,6 +12,10 @@
 * [Understanding Paint](https://github.com/simplonco/jquery-paint)
   _Rework pixel-Art :art:_
 
+## Project
+
+* [Chat](https://github.com/simplonco/project-chat) _BlaBlaBlaBla :cat:_
+
 ## Resources
 
 * [Official Documentation](http://api.jquery.com/) :uk:
