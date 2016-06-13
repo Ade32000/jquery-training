@@ -14,7 +14,7 @@
 
 ## Project
 
-* [Chat](https://github.com/simplonco/project-chat) _BlaBlaBlaBla :cat:_
+* [MiniChat](https://github.com/simplonco/project-chat) _BlaBlaBlaBla :cat:_
 
 ## Resources
 
