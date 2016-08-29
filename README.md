@@ -7,7 +7,7 @@
 
 * [Pomodoro](https://gitlab.com/simplon-co/jquery-pomodoro)
   _Create an app to manage Pomodoro sessions. :tomato:_
-* [Slider](https://gitlab.com/simplon-co/jquery-slider) _Simple jQuery picture carousel. :crystal_ball:_
+* [Slider](https://gitlab.com/simplon-co/jquery-slider) _Simple jQuery picture carousel._
 * [Interactive Form](https://gitlab.com/simplon-co/jquery-form) _Simple jQuery interactive form. :pencil:_
 * [Understanding Paint](https://gitlab.com/simplon-co/jquery-paint)
   _Rework pixel-Art :art:_
@@ -30,5 +30,6 @@
 * http://www.w3schools.com/games/game_movement.asp
 * http://thingsilearned.com/2009/06/02/tictactoe-in-jquery/
 * http://fmarcia.info/jquery/tetris/tetris.html
+
 
 _To be continued.._
