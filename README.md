@@ -18,12 +18,12 @@
 
 ## Resources
 
-* [Official Documentation](http://api.jquery.com/) :uk:
-* [OpenClassrooms - Introduction to jQuery](https://openclassrooms.com/courses/intro-to-jquery) :uk:
+* [Official Documentation](http://api.jquery.com/) :gb:
+* [OpenClassrooms - Introduction to jQuery](https://openclassrooms.com/courses/intro-to-jquery) :gb:
 * [OpenClassrooms - Introduction à jQuery](https://openclassrooms.com/courses/introduction-a-jquery-4) :fr:
 * [OpenClassrooms - Simplifiez vos développements JavaScript avec jQuery](https://openclassrooms.com/courses/simplifiez-vos-developpements-javascript-avec-jquery) :fr:
-* [Codecademy](https://www.codecademy.com/learn/jquery) :uk: :fr:
-* [Code School](https://www.codeschool.com/courses/try-jquery) :uk:
+* [Codecademy](https://www.codecademy.com/learn/jquery) :gb: :fr:
+* [Code School](https://www.codeschool.com/courses/try-jquery) :gb:
 
 ### Other game tutorials _(to go further)_
 
