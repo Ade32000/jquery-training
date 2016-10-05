@@ -4,7 +4,8 @@
 ![jQuery](jquery.png)
 
 ## Exercises
-
+* [jQuery basics](https://github.com/simplonco/jquery-exercises-base) _Starting on jQuery_
+* [jQuery basics II](https://github.com/simplonco/jquery-exercises-base2) _Starting on jQuery_
 * [Pomodoro](https://github.com/simplonco/jquery-pomodoro)
   _Create an app to manage Pomodoro sessions. :tomato:_
 * [Slider](https://github.com/simplonco/jquery-slider) _Simple jQuery picture carousel. :crystal_ball:_
