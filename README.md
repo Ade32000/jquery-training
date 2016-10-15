@@ -1,5 +1,5 @@
 # jQuery
->_[Training](https://gitlab.com/simplon-co/training) / jQuery_
+>_[Training](https://github.com/simplonco/training) / jQuery_
 
 ![jQuery](jquery.png)
 
@@ -12,16 +12,16 @@
 
 ## Exercises
 
-* [Pomodoro](https://gitlab.com/simplon-co/jquery-pomodoro)
+* [Pomodoro](https://github.com/simplonco/jquery-pomodoro)
   _Create an app to manage Pomodoro sessions. :tomato:_
-* [Slider](https://gitlab.com/simplon-co/jquery-slider) _Simple jQuery picture carousel._
-* [Interactive Form](https://gitlab.com/simplon-co/jquery-form) _Simple jQuery interactive form. :pencil:_
-* [Understanding Paint](https://gitlab.com/simplon-co/jquery-paint)
+* [Slider](https://github.com/simplonco/jquery-slider) _Simple jQuery picture carousel._
+* [Interactive Form](https://github.com/simplonco/jquery-form) _Simple jQuery interactive form. :pencil:_
+* [Understanding Paint](https://github.com/simplonco/jquery-paint)
   _Rework pixel-Art :art:_
 
 ## Project
 
-* [MiniChat](https://gitlab.com/simplon-co/project-chat) _BlaBlaBlaBla BlaBla Bla :cat:_
+* [MiniChat](https://github.com/simplonco/project-chat) _BlaBlaBlaBla BlaBla Bla :cat:_
 
 ## Resources
 
