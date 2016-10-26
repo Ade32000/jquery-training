@@ -32,11 +32,4 @@
 * [Codecademy](https://www.codecademy.com/learn/jquery) :gb: :fr:
 * [Code School](https://www.codeschool.com/courses/try-jquery) :gb:
 
-### Other game tutorials _(to go further)_
-
-* http://www.w3schools.com/games/game_movement.asp
-* http://thingsilearned.com/2009/06/02/tictactoe-in-jquery/
-* http://fmarcia.info/jquery/tetris/tetris.html
-
-
 _To be continued.._
