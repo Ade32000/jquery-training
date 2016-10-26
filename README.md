@@ -14,8 +14,7 @@
 
 ## Exercises
 
-> Exercices given without automated validation, with just a short subject / explanation
-
+> Exercices given without automated validation, with just a short explanation
 
 * [Pomodoro](https://github.com/simplonco/jquery-pomodoro)
   _Create an app to manage Pomodoro sessions. :tomato:_
@@ -26,15 +25,13 @@
 
 ## Project
 
-> Long project activity, without tutorial, but some functional / technical specifications, to engage students autonomy
-
+> Long project activity, without tutorial, but some functional specifications, to engage students autonomy
 
 * [MiniChat](https://github.com/simplonco/project-chat) _BlaBlaBlaBla BlaBla Bla :cat:_
 
 ## Resources
 
-> Currated list of external urls - ressources
-
+> Currated list of external ressources
 
 * [Official Documentation](http://api.jquery.com/) :gb:
 * [OpenClassrooms - Introduction to jQuery](https://openclassrooms.com/courses/intro-to-jquery) :gb:
