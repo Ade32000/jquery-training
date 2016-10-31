@@ -5,12 +5,16 @@
 
 ## Starters
 
+> Short ressources to engage your training
+
 * [jQuery basics](https://github.com/simplonco/jquery-exercises-base) _Starting on jQuery_  :rage1:
 * [jQuery basics II](https://github.com/simplonco/jquery-exercises-base2) _Starting on jQuery_  :rage2:
 * [jQuery basics III](https://github.com/simplonco/jquery-exercises-base3) _Starting on jQuery_  :rage3:
 * [jQuery basics IV](https://github.com/simplonco/jquery-exercises-base4) _Starting on jQuery_  :rage4:
 
 ## Exercises
+
+> Exercices given without automated validation, with just a short explanation
 
 * [Pomodoro](https://github.com/simplonco/jquery-pomodoro)
   _Create an app to manage Pomodoro sessions. :tomato:_
@@ -21,9 +25,13 @@
 
 ## Project
 
+> Long project activity, without tutorial, but some functional specifications, to engage students autonomy
+
 * [MiniChat](https://github.com/simplonco/project-chat) _BlaBlaBlaBla BlaBla Bla :cat:_
 
 ## Resources
+
+> Currated list of external ressources
 
 * [Official Documentation](http://api.jquery.com/) :gb:
 * [OpenClassrooms - Introduction to jQuery](https://openclassrooms.com/courses/intro-to-jquery) :gb:
@@ -31,12 +39,5 @@
 * [OpenClassrooms - Simplifiez vos développements JavaScript avec jQuery](https://openclassrooms.com/courses/simplifiez-vos-developpements-javascript-avec-jquery) :fr:
 * [Codecademy](https://www.codecademy.com/learn/jquery) :gb: :fr:
 * [Code School](https://www.codeschool.com/courses/try-jquery) :gb:
-
-### Other game tutorials _(to go further)_
-
-* http://www.w3schools.com/games/game_movement.asp
-* http://thingsilearned.com/2009/06/02/tictactoe-in-jquery/
-* http://fmarcia.info/jquery/tetris/tetris.html
-
 
 _To be continued.._
