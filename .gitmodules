@@ -1,0 +1,27 @@
+[submodule "exercises/jquery-form"]
+	path = exercises/jquery-form
+	url = https://github.com/simplonco/jquery-form
+[submodule "exercises/jquery-paint"]
+	path = exercises/jquery-paint
+	url = https://github.com/simplonco/jquery-paint
+[submodule "exercises/jquery-slider"]
+	path = exercises/jquery-slider
+	url = https://github.com/simplonco/jquery-slider
+[submodule "exercises/jquery-pomodoro"]
+	path = exercises/jquery-pomodoro
+	url = https://github.com/simplonco/jquery-pomodoro
+[submodule "projects/project-minichat"]
+	path = projects/project-minichat
+	url = https://github.com/simplonco/project-minichat
+[submodule "starters/jquery-exercises-base"]
+	path = starters/jquery-exercises-base
+	url = https://github.com/simplonco/jquery-exercises-base
+[submodule "starters/jquery-exercises-base2"]
+	path = starters/jquery-exercises-base2
+	url = https://github.com/simplonco/jquery-exercises-base2
+[submodule "starters/jquery-exercises-base3"]
+	path = starters/jquery-exercises-base3
+	url = https://github.com/simplonco/jquery-exercises-base3
+[submodule "starters/jquery-exercises-base4"]
+	path = starters/jquery-exercises-base4
+	url = https://github.com/simplonco/jquery-exercises-base4
