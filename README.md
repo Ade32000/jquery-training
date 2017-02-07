@@ -40,4 +40,10 @@
 * [Codecademy](https://www.codecademy.com/learn/jquery) :gb: :fr:
 * [Code School](https://www.codeschool.com/courses/try-jquery) :gb:
 
+## How to Contribute
+
+Please read the [Contribution guide](https://github.com/simplonco/training/blob/master/CONTRIBUTING.md) first!
+
+Do you want to add a resource? correct a mistake? Or do you need a new exercise or project to cover a topic? Do not hesitate to write an [issue](https://github.com/simplonco/jquery-training/issues)!
+
 _To be continued.._
