@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Exercice Jquery - Partie 3</title>
+	<script src="/home/adeline/node_modules/jquery/dist/jquery.min.js"></script>
+</head>
+<body>
+	<button type="button" name="button" id="bouton">Cliquez sur moi!</button>
+	<span type="text" name="texte" id="champs"></span>
+	<script>
+		
+	var count = 0;
+
+  	$("#bouton").click(function() 
+  	{
+    count++;
+    $("#champs").html(count);
+  	});
+		
+	</script>
+</body>
+</html>
