@@ -1,1 +1,3 @@
 $("#texte").hide();
+
+$("#texte").show();
