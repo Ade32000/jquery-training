@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Exercice Jquery - Partie 3</title>
+	<script src="/home/adeline/node_modules/jquery/dist/jquery.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="style4.css">
+</head>
+<body>
+	<div id="new">
+	<center>
+	
+	<button type="button" name="button" id="btn1">J'augmente la taille</button>
+	<button type="button" name="button" id="btn2">Je colore en vert</button>
+	<button type="button" name="button" id="btn3">Je rétablie la couleur initiale</button>
+	<button type="button" name="button" id="btn4">Je fais disparaître</button>
+	<button type="button" name="button" id="btn5">Je fais ré-apparaître</button>
+	<br>
+	<br>
+	<div id="rectangle"></div>
+	</center>
+	</div>
+	
+	<script>
+	var aug = 10;
+
+	$('#btn1').on('click',function()
+	{
+		aug = aug + 10;
+		$('#rectangle').css('height', aug);
+		if (aug > 100)
+		{
+		$('#rectangle').css('height', 10);
+		}
+	});
+
+	$('#btn2').on('click',function()
+	{
+		$('#rectangle').css('background-color', 'green');
+	});
+
+	$('#btn3').on('click',function()
+	{
+		$('#rectangle').css('background-color', 'white');	
+	});
+
+	$('#btn4').on('click',function()
+	{
+		$('#rectangle').hide();	
+	});
+
+	$('#btn5').on('click',function()
+	{
+		$('#rectangle').show();	
+	});
+
+	</script>
+</body>
+</html>
