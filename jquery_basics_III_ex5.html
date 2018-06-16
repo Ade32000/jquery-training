@@ -7,37 +7,81 @@
 	<link rel="stylesheet" type="text/css" href="style5.css">
 </head>
 <body>
-	<div id="new">
-	<center>
 	
 	<input type="text" name="">
 	<br>
 	<br>
 	<div id="rectangle"></div>
-	</center>
-	</div>
-	
-	<script>
-	$(document).keydown(function(event)
-	{
-		switch (event.which){
-		case 37 :
-		$('#rectangle').css('margin-left', '-=10');
-		break;
-		case 38 :
-		$('#rectangle').css('margin-top', '-=10');
-		break;
-		case 39 :
-		$('#rectangle').css('margin-left', '+=10');
-		break;
-		case 40 :
-		$('#rectangle').css('margin-top', '+=10');
-		break;
-		}	
-	});
 
-	if ($("#rectangle").)
+	<script>
+
+			var larg = $( window ).width();
+			console.log(larg);
+			var haut = $( window ).height();
+			console.log(haut);
+
+		
+	// var lag = $('#rectangle').css('margin-left');
+
+
+// 		$('#position').on('click',function(){
+//   		$('#boite').offset({top:120,left:200});
+// });
+
+	
+// 	$(document).keydown(function(event)
+// 	{
+// 		switch (event.which){
+// 		case 37 :
+// 		$('#rectangle').css('margin-left', '-=10');
+// 			// var y = $(this).offset().top;
+// 			// var larg = $( window ).width();
+// 			// var haut = $(window).height();
+// 			var larg = $('#rectangle').css('margin-left');
+// 			console.log(larg);
+// 		if (larg <= 0) {
+// 			$('#rectangle').css('margin-left', 100);
+// 		} 
+// 		break;
+		// case 38 :
+		// $('#rectangle').css('margin-top', '-=10');
+		// 	var x = $(this).offset().left;
+		// 	var haut = $( window ).height();
+		// break;
+		// case 39 :
+		// $('#rectangle').css('margin-left', '+=10');
+		// break;
+		// case 40 :
+		// $('#rectangle').css('margin-top', '+=10');
+		// break;
+		// }	
+// 	};
+  
+// });
+
 
 	</script>
 </body>
 </html>
+
+
+
+<script></script>
+
+
+$(".emailFriend").hide();
+    $(".emailIcon").on("click", function(e) {
+        $(".emailFriend").css({
+            "position": "absolute", 
+            "left": $(this).offset().left, 
+            "top": $(this).offset().top
+        }).fadeIn(500);
+        return false; 
+    }); 
+
+    $(this).offset().left - $('#container').offset().left
+
+
+
+
+

@@ -1,0 +1,38 @@
+li
+{
+	list-style-type: none;
+	list-style: ;
+	font-size: 30px;
+}
+
+.rest
+{
+	font-size: 20px;
+}
+#bloc
+{
+	margin-top: 40px;
+	margin-left: 630px;
+}
+button
+{
+	width: 150px;
+	height: 60px;	
+	font-size: 18px;
+	font-weight: bold;
+}
+#rejouer 
+{
+	margin-right: 15px;
+}
+#result
+{
+	font-size: 24px;
+	font-weight: bold;
+	color: blue;
+}
+.res
+{
+	font-size: 24px;
+	color: green;
+}
